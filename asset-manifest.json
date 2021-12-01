@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/notebook-app/static/js/main.3c7fef4d.chunk.js",
+    "main.js.map": "/notebook-app/static/js/main.3c7fef4d.chunk.js.map",
+    "runtime-main.js": "/notebook-app/static/js/runtime-main.eba17519.js",
+    "runtime-main.js.map": "/notebook-app/static/js/runtime-main.eba17519.js.map",
+    "static/js/2.9b64a507.chunk.js": "/notebook-app/static/js/2.9b64a507.chunk.js",
+    "static/js/2.9b64a507.chunk.js.map": "/notebook-app/static/js/2.9b64a507.chunk.js.map",
+    "index.html": "/notebook-app/index.html",
+    "static/js/2.9b64a507.chunk.js.LICENSE.txt": "/notebook-app/static/js/2.9b64a507.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba17519.js",
+    "static/js/2.9b64a507.chunk.js",
+    "static/js/main.3c7fef4d.chunk.js"
+  ]
+}
